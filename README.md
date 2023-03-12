@@ -1,4 +1,4 @@
-# tmux-tilde
+# tmux-quake
 Quake like console behavior but then with tmux panes. 
 
 ## Config
